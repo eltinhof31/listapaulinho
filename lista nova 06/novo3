@@ -1,0 +1,554 @@
+#EXTM3U
+#EXTINF:0 tvg-id="AyE.mx" group-title="Filmes e Séries",A&E
+http://a.srvbr.me:8880/paulinho10/paulinho10/898
+#EXTINF:0 tvg-id="AyE.mx" group-title="Filmes e Séries",A&E HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/4203
+#EXTINF:0 tvg-id="mgm-int" group-title="Filmes e Séries",AMC
+http://a.srvbr.me:8880/paulinho10/paulinho10/5077
+#EXTINF:0 tvg-id="AMC.uk" group-title="Filmes e Séries",AMC HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5076
+#EXTINF:0 tvg-id="AXN.bg" group-title="Filmes e Séries",AXN
+http://a.srvbr.me:8880/paulinho10/paulinho10/893
+#EXTINF:0 tvg-id="AXN.it" group-title="Filmes e Séries",AXN HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/892
+#EXTINF:0 tvg-id="Canalbrasil.br" group-title="Filmes e Séries",Canal Brasil
+http://a.srvbr.me:8880/paulinho10/paulinho10/883
+#EXTINF:0 tvg-id="CinemaxO.mx" group-title="Filmes e Séries",Cinemax
+http://a.srvbr.me:8880/paulinho10/paulinho10/876
+#EXTINF:0 tvg-id="CineMAX.ro" group-title="Filmes e Séries",Cinemax HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/1495
+#EXTINF:0 tvg-id="fox-crime" group-title="Filmes e Séries",FOX
+http://a.srvbr.me:8880/paulinho10/paulinho10/844
+#EXTINF:0 tvg-id="fox-hd" group-title="Filmes e Séries",FOX HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/841
+#EXTINF:0 tvg-id="fox-hd" group-title="Filmes e Séries",Fox Full HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5473
+#EXTINF:0 tvg-id="Foxpremium2.br" group-title="Filmes e Séries",Fox Premium 2
+http://a.srvbr.me:8880/paulinho10/paulinho10/5317
+#EXTINF:0 tvg-id="Foxpremium2.br" group-title="Filmes e Séries",FOX Premium 2 HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/842
+#EXTINF:0 tvg-id="Foxpremium2.br" group-title="Filmes e Séries",Fox Premium 2 Full HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5429
+#EXTINF:0 tvg-id="fox-life" group-title="Filmes e Séries",Fox Life
+http://a.srvbr.me:8880/paulinho10/paulinho10/840
+#EXTINF:0 tvg-id="fox-life-hd" group-title="Filmes e Séries",FOX Life HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/839
+#EXTINF:0 tvg-id="FX.uk" group-title="Filmes e Séries",FX
+http://a.srvbr.me:8880/paulinho10/paulinho10/833
+#EXTINF:0 tvg-id="FXHD.mx" group-title="Filmes e Séries",FX HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/832
+#EXTINF:0 tvg-id="+globosat.br" group-title="Filmes e Séries",+Globosat
+http://a.srvbr.me:8880/paulinho10/paulinho10/804
+#EXTINF:0 tvg-id="+globosathd.br" group-title="Filmes e Séries",+Globosat HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/1488
+#EXTINF:0 tvg-id="HBOAdria.rs" group-title="Filmes e Séries",HBO
+http://a.srvbr.me:8880/paulinho10/paulinho10/820
+#EXTINF:0 tvg-id="HBO.hu" group-title="Filmes e Séries",HBO HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/816
+#EXTINF:0 tvg-id="HBO.hu" group-title="Filmes e Séries",HBO Full HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5467
+#EXTINF:0 tvg-id="HBO2.cz" group-title="Filmes e Séries",HBO 2
+http://a.srvbr.me:8880/paulinho10/paulinho10/810
+#EXTINF:0 tvg-id="HBO2.pl" group-title="Filmes e Séries",HBO 2 HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/819
+#EXTINF:0 tvg-id="HBO2.pl" group-title="Filmes e Séries",HBO 2 Full HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5468
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="Filmes e Séries",HBO Family
+http://a.srvbr.me:8880/paulinho10/paulinho10/818
+#EXTINF:0 tvg-id="HBOFamilyHD.cl" group-title="Filmes e Séries",HBO Family HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/817
+#EXTINF:0 tvg-id="Hboplus.br" group-title="Filmes e Séries",HBO Plus
+http://a.srvbr.me:8880/paulinho10/paulinho10/815
+#EXTINF:0 tvg-id="Hboplushd.br" group-title="Filmes e Séries",HBO Plus HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/813
+#EXTINF:0 tvg-id="HBOSignature.mx" group-title="Filmes e Séries",HBO Signature
+http://a.srvbr.me:8880/paulinho10/paulinho10/812
+#EXTINF:0 tvg-id="HBOSignature.us" group-title="Filmes e Séries",HBO Signature HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/811
+#EXTINF:0 tvg-id="Max.br" group-title="Filmes e Séries",HBO MUNDI
+http://a.srvbr.me:8880/paulinho10/paulinho10/803
+#EXTINF:0 tvg-id="Maxhd.br" group-title="Filmes e Séries",HBO MUNDI HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/1497
+#EXTINF:0 tvg-id="Maxprime.br" group-title="Filmes e Séries",HBO XTREME
+http://a.srvbr.me:8880/paulinho10/paulinho10/802
+#EXTINF:0 tvg-id="set" group-title="Filmes e Séries",Sony
+http://a.srvbr.me:8880/paulinho10/paulinho10/881
+#EXTINF:0 tvg-id="set" group-title="Filmes e Séries",Sony HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/880
+#EXTINF:0 tvg-id="Maxprimehd.br" group-title="Filmes e Séries",HBO Xtreme HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/1487
+#EXTINF:0 tvg-id="Megapix.br" group-title="Filmes e Séries",MegaPix
+http://a.srvbr.me:8880/paulinho10/paulinho10/799
+#EXTINF:0 tvg-id="Megapix.br" group-title="Filmes e Séries",Megapix HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/798
+#EXTINF:0 tvg-id="paramount" group-title="Filmes e Séries",Paramount Channel
+http://a.srvbr.me:8880/paulinho10/paulinho10/783
+#EXTINF:0 tvg-id="paramount" group-title="Filmes e Séries",Paramount Channel HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/782
+#EXTINF:0 tvg-id="Space.br" group-title="Filmes e Séries",Space
+http://a.srvbr.me:8880/paulinho10/paulinho10/753
+#EXTINF:0 tvg-id="SpaceHD.mx" group-title="Filmes e Séries",Space HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/752
+#EXTINF:0 tvg-id="StudioUniversal.it" group-title="Filmes e Séries",Studio Universal
+http://a.srvbr.me:8880/paulinho10/paulinho10/743
+#EXTINF:0 tvg-id="StudioUniversalHD.cl" group-title="Filmes e Séries",Studio Universal HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/1480
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="Filmes e Séries",Syfy
+http://a.srvbr.me:8880/paulinho10/paulinho10/742
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="Filmes e Séries",Syfy HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/1483
+#EXTINF:0 tvg-id="24dok" group-title="Filmes e Séries",TBS
+http://a.srvbr.me:8880/paulinho10/paulinho10/741
+#EXTINF:0 tvg-id="TBSHD.us" group-title="Filmes e Séries",TBS HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/740
+#EXTINF:0 tvg-id="TCM.uk" group-title="Filmes e Séries",TCM
+http://a.srvbr.me:8880/paulinho10/paulinho10/734
+#EXTINF:0 tvg-id="Tcaction.br" group-title="Filmes e Séries",Telecine Action
+http://a.srvbr.me:8880/paulinho10/paulinho10/733
+#EXTINF:0 tvg-id="Tcaction.br" group-title="Filmes e Séries",Telecine Action HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/739
+#EXTINF:0 tvg-id="Tcaction.br" group-title="Filmes e Séries",Telecine Action Full HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5464
+#EXTINF:0 tvg-id="Tccult.br" group-title="Filmes e Séries",Telecine Cult
+http://a.srvbr.me:8880/paulinho10/paulinho10/732
+#EXTINF:0 tvg-id="Tcculthd.br" group-title="Filmes e Séries",Telecine Cult HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/1482
+#EXTINF:0 tvg-id="Tcfun.br" group-title="Filmes e Séries",Telecine Fun
+http://a.srvbr.me:8880/paulinho10/paulinho10/731
+#EXTINF:0 tvg-id="Telecinefunhd.br" group-title="Filmes e Séries",Telecine Fun HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/738
+#EXTINF:0 tvg-id="Telecinefunhd.br" group-title="Filmes e Séries",Telecine Fun Full HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5463
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="Filmes e Séries",Telecine Pipoca
+http://a.srvbr.me:8880/paulinho10/paulinho10/730
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="Filmes e Séries",Telecine Pipoca HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/737
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="Filmes e Séries",Telecine Pipoca Full HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5462
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="Filmes e Séries",Telecine Premium
+http://a.srvbr.me:8880/paulinho10/paulinho10/729
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="Filmes e Séries",Telecine Premium HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/736
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="Filmes e Séries",Telecine Premium Full HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5461
+#EXTINF:0 tvg-id="Tctouch.br" group-title="Filmes e Séries",Telecine Touch
+http://a.srvbr.me:8880/paulinho10/paulinho10/728
+#EXTINF:0 tvg-id="Tctouchhd.br" group-title="Filmes e Séries",Telecine Touch HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/735
+#EXTINF:0 tvg-id="Tctouchhd.br" group-title="Filmes e Séries",Telecine Touch Full HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5460
+#EXTINF:0 tvg-id="tnt" group-title="Filmes e Séries",TNT
+http://a.srvbr.me:8880/paulinho10/paulinho10/724
+#EXTINF:0 tvg-id="tnt" group-title="Filmes e Séries",TNT HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/723
+#EXTINF:0 tvg-id="TNTSeries.cl" group-title="Filmes e Séries",TNT Séries
+http://a.srvbr.me:8880/paulinho10/paulinho10/722
+#EXTINF:0 tvg-id="TNTSeries.cl" group-title="Filmes e Séries",TNT Séries HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/721
+#EXTINF:0 tvg-id="Universal.uk" group-title="Filmes e Séries",Universal Channel
+http://a.srvbr.me:8880/paulinho10/paulinho10/711
+#EXTINF:0 tvg-id="Universal.uk" group-title="Filmes e Séries",Universal Channel HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/710
+#EXTINF:0 tvg-id="WarnerChannel.mx" group-title="Filmes e Séries",Warner Channel
+http://a.srvbr.me:8880/paulinho10/paulinho10/706
+#EXTINF:0 tvg-id="WarnerChannelHD.ar" group-title="Filmes e Séries",Warner Channel HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/705
+#EXTINF:0 tvg-id="WarnerHD.mx" group-title="Filmes e Séries",Warner Full HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5425
+
+
+#EXTINF:0 tvg-id="animal_rus" group-title="Documentários",Animal Planet
+http://a.srvbr.me:8880/paulinho10/paulinho10/897
+#EXTINF:0 tvg-id="animal-hd" group-title="Documentários",Animal Planet HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/896
+#EXTINF:0 tvg-id="animal-hd" group-title="Documentários",Animal Planet Full HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5436
+#EXTINF:0 tvg-id="Arte1.br" group-title="Documentários",Arte 1
+http://a.srvbr.me:8880/paulinho10/paulinho10/894
+#EXTINF:0 tvg-id="DiscoveryCivil.mx" group-title="Documentários",Discovery Civilization
+http://a.srvbr.me:8880/paulinho10/paulinho10/869
+#EXTINF:0 tvg-id="discov_rus" group-title="Documentários",Discovery Channel
+http://a.srvbr.me:8880/paulinho10/paulinho10/871
+#EXTINF:0 tvg-id="discov_rus-hd" group-title="Documentários",Discovery Channel HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/870
+#EXTINF:0 tvg-id="discov_rus-hd" group-title="Documentários",Discovery Channel Full HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5448
+#EXTINF:0 tvg-id="discov_sci" group-title="Documentários",Discovery Science
+http://a.srvbr.me:8880/paulinho10/paulinho10/865
+#EXTINF:0 tvg-id="discov_sci" group-title="Documentários",Discovery Science HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5075
+#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="Documentários",Discovery Theater
+http://a.srvbr.me:8880/paulinho10/paulinho10/5323
+#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="Documentários",Discovery Theater HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/864
+#EXTINF:0 tvg-id="discov_turbo-extra" group-title="Documentários",Discovery World
+http://a.srvbr.me:8880/paulinho10/paulinho10/5322
+#EXTINF:0 tvg-id="DiscoveryWorldHD.pe" group-title="Documentários",Discovery World HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/861
+#EXTINF:0 tvg-id="DiscoveryWorldHD.pe" group-title="Documentários",Discovery World Full HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5430
+#EXTINF:0 tvg-id="history2-rus" group-title="Documentários",H2
+http://a.srvbr.me:8880/paulinho10/paulinho10/822
+#EXTINF:0 tvg-id="history2-rus" group-title="Documentários",H2 HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/821
+#EXTINF:0 tvg-id="history-rus" group-title="Documentários",History
+http://a.srvbr.me:8880/paulinho10/paulinho10/726
+#EXTINF:0 tvg-id="HistoryHD.ru" group-title="Documentários",History HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/809
+#EXTINF:0 tvg-id="HistoryHD.ru" group-title="Documentários",History Full HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5424
+#EXTINF:0 tvg-id="natgeowild" group-title="Documentários",NatGeo Wild
+http://a.srvbr.me:8880/paulinho10/paulinho10/793
+#EXTINF:0 tvg-id="wild-hd" group-title="Documentários",NatGeo Wild HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/702
+#EXTINF:0 tvg-id="wild-hd" group-title="Documentários",Nat Geo Wild Full HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5428
+#EXTINF:0 tvg-id="natgeo" group-title="Documentários",National Geographic
+http://a.srvbr.me:8880/paulinho10/paulinho10/792
+#EXTINF:0 tvg-id="natgeo_hd" group-title="Documentários",National Geographic HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/791
+#EXTINF:0 tvg-id="SmithsonianChannel.uk" group-title="Documentários",Smithsonian Channel
+http://a.srvbr.me:8880/paulinho10/paulinho10/11419
+#EXTINF:0 tvg-id="SmithsonianChannelHD.us" group-title="Documentários",Smithsonian Channel HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/11420
+
+#EXTINF:0 tvg-id="baby-tv" group-title="Infantil",Baby TV
+http://a.srvbr.me:8880/paulinho10/paulinho10/5078
+#EXTINF:0 tvg-id="boomerang" group-title="Infantil",Boomerang
+http://a.srvbr.me:8880/paulinho10/paulinho10/884
+#EXTINF:0 tvg-id="Boomerang.uk" group-title="Infantil",Boomerang HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5327
+#EXTINF:0 tvg-id="Boomerang.uk" group-title="Infantil",Boomerang Full HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5434
+#EXTINF:0 tvg-id="cartoon" group-title="Infantil",Cartoon Network
+http://a.srvbr.me:8880/paulinho10/paulinho10/878
+#EXTINF:0 tvg-id="cartoon" group-title="Infantil",Cartoon Network HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/877
+#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="Infantil",Discovery Kids
+http://a.srvbr.me:8880/paulinho10/paulinho10/866
+#EXTINF:0 tvg-id="DiscoveryKidsHD.pe" group-title="Infantil",Discovery Kids HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/1494
+#EXTINF:0 tvg-id="DiscoveryKidsHD.pe" group-title="Infantil",Discovery kids Full HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5432
+#EXTINF:0 tvg-id="disney" group-title="Infantil",Disney Channel
+http://a.srvbr.me:8880/paulinho10/paulinho10/860
+#EXTINF:0 tvg-id="Disney.uk" group-title="Infantil",Disney Channel HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/1493
+#EXTINF:0 tvg-id="Disney.uk" group-title="Infantil",Disney Channel Full HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5446
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Infantil",Disney Junior
+http://a.srvbr.me:8880/paulinho10/paulinho10/859
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Infantil",Disney Junior HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5562
+#EXTINF:0 tvg-id="disney-xd-blt" group-title="Infantil",Disney XD
+http://a.srvbr.me:8880/paulinho10/paulinho10/858
+#EXTINF:0 tvg-id="Gloob.br" group-title="Infantil",Gloob
+http://a.srvbr.me:8880/paulinho10/paulinho10/825
+#EXTINF:0 tvg-id="Gloobhd.br" group-title="Infantil",Gloob HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/1490
+#EXTINF:0 tvg-id="Gloobhd.br" group-title="Infantil",Gloob Full HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5441
+#EXTINF:0 tvg-id="nickelodeon-rus" group-title="Infantil",Nickelodeon
+http://a.srvbr.me:8880/paulinho10/paulinho10/787
+#EXTINF:0 tvg-id="nickelod-hd" group-title="Infantil",Nickelodeon HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/1484
+#EXTINF:0 tvg-id="nickelod-hd" group-title="Infantil",Nicklodeon Full HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5426
+#EXTINF:0 tvg-id="nick-jr" group-title="Infantil",Nick Jr.
+http://a.srvbr.me:8880/paulinho10/paulinho10/788
+#EXTINF:0 tvg-id="NickJr.de" group-title="Infantil",Nick Jr. HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5301
+#EXTINF:0 tvg-id="NickJrHD.us" group-title="Infantil",Nick JR Full HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5427
+#EXTINF:0 tvg-id="ext" group-title="Infantil",PlayKids
+http://a.srvbr.me:8880/paulinho10/paulinho10/7563
+#EXTINF:0 tvg-id="ext" group-title="Infantil",PlayKids HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/7564
+#EXTINF:0 tvg-id="Tooncast.mx" group-title="Infantil",Tooncast
+http://a.srvbr.me:8880/paulinho10/paulinho10/720
+#EXTINF:0 tvg-id="Tvratimbum.br" group-title="Infantil",TV Rá Tim Bum
+http://a.srvbr.me:8880/paulinho10/paulinho10/715
+#EXTINF:0 tvg-id="Tvratimbum.br" group-title="Infantil",TV Ra Tim Bum HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5292
+
+#EXTINF:0 tvg-id="Bis.br" group-title="Variedades",BIS
+http://a.srvbr.me:8880/paulinho10/paulinho10/886
+#EXTINF:0 tvg-id="Bishd.br" group-title="Variedades",BIS HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/885
+#EXTINF:0 tvg-id="Bishd.br" group-title="Variedades",BIS Full HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5447
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Variedades",Comedy Central
+http://a.srvbr.me:8880/paulinho10/paulinho10/873
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Variedades",Comedy Central HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5326
+#EXTINF:0 tvg-id="HomeandHealth.uk" group-title="Variedades",Discovery Home & Health
+http://a.srvbr.me:8880/paulinho10/paulinho10/868
+#EXTINF:0 tvg-id="DiscoveryHomeHealthHD.ar" group-title="Variedades",Discovery Home & Health HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/867
+#EXTINF:0 tvg-id="DiscoveryHomeHealthHD.ar" group-title="Variedades",Discovery Home & Health Full HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5433
+#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="Variedades",Discovery Turbo
+http://a.srvbr.me:8880/paulinho10/paulinho10/863
+#EXTINF:0 tvg-id="Discturbohd.br" group-title="Variedades",Discovery Turbo HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/862
+#EXTINF:0 tvg-id="Discturbohd.br" group-title="Variedades",Discovery Turbo Full HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5431
+#EXTINF:0 tvg-id="E.uk" group-title="Variedades",E!
+http://a.srvbr.me:8880/paulinho10/paulinho10/857
+#EXTINF:0 tvg-id="E.uk" group-title="Variedades",E! HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/4204
+#EXTINF:0 tvg-id="food-network-rus" group-title="Variedades",Food Network
+http://a.srvbr.me:8880/paulinho10/paulinho10/845
+#EXTINF:0 tvg-id="food-network-rus" group-title="Variedades",Food Network HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/1491
+#EXTINF:0 tvg-id="Gnt.br" group-title="Variedades",GNT
+http://a.srvbr.me:8880/paulinho10/paulinho10/824
+#EXTINF:0 tvg-id="Gnthd.br" group-title="Variedades",GNT HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/823
+#EXTINF:0 tvg-id="id-extra" group-title="Variedades",ID
+http://a.srvbr.me:8880/paulinho10/paulinho10/807
+#EXTINF:0 tvg-id="InvestigationDiscovery.pl" group-title="Variedades",ID HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/806
+#EXTINF:0 tvg-id="Lifetime.uk" group-title="Variedades",Lifetime
+http://a.srvbr.me:8880/paulinho10/paulinho10/805
+#EXTINF:0 tvg-id="Lifetime.uk" group-title="Variedades",Lifetime HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/1489
+#EXTINF:0 tvg-id="mtv-rus" group-title="Variedades",MTV
+http://a.srvbr.me:8880/paulinho10/paulinho10/797
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="Variedades",MTV HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/1485
+#EXTINF:0 tvg-id="Multishow.br" group-title="Variedades",Multishow
+http://a.srvbr.me:8880/paulinho10/paulinho10/796
+#EXTINF:0 tvg-id="Multishow.br" group-title="Variedades",Multishow HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/795
+#EXTINF:0 tvg-id="SundanceTV.us" group-title="Variedades",SundanceTV
+http://a.srvbr.me:8880/paulinho10/paulinho10/5296
+#EXTINF:0 tvg-id="SundanceTVHD.us" group-title="Variedades",SundanceTV HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5295
+#EXTINF:0 tvg-id="tlc-russia" group-title="Variedades",TLC
+http://a.srvbr.me:8880/paulinho10/paulinho10/725
+#EXTINF:0 tvg-id="tlc-russia-hd" group-title="Variedades",TLC HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/1481
+#EXTINF:0 tvg-id="TruTV.uk" group-title="Variedades",TruTV
+http://a.srvbr.me:8880/paulinho10/paulinho10/719
+#EXTINF:0 tvg-id="TruTVHD.mx" group-title="Variedades",TruTV HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5291
+#EXTINF:0 tvg-id="Tvcultura.br" group-title="Variedades",TV Cultura
+http://a.srvbr.me:8880/paulinho10/paulinho10/5161
+#EXTINF:0 tvg-id="vh1-europe" group-title="Variedades",VH1
+http://a.srvbr.me:8880/paulinho10/paulinho10/5290
+#EXTINF:0 tvg-id="VH1UK.uk" group-title="Variedades",VH1 HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/1479
+#EXTINF:0 tvg-id="Vh1MegaHits.cl" group-title="Variedades",VH1 Mega Hits
+http://a.srvbr.me:8880/paulinho10/paulinho10/709
+#EXTINF:0 tvg-id="Viva.uk" group-title="Variedades",Viva
+http://a.srvbr.me:8880/paulinho10/paulinho10/708
+#EXTINF:0 tvg-id="Viva.br" group-title="Variedades",Viva HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/707
+#EXTINF:0 tvg-id="Viva.br" group-title="Variedades",Viva Full HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5437
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="Variedades",MTV Live
+http://a.srvbr.me:8880/paulinho10/paulinho10/5654
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="Variedades",MTV Live HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5655
+
+#EXTINF:0 tvg-id="Bandeirantes.br" group-title="TV Aberta",Band
+http://a.srvbr.me:8880/paulinho10/paulinho10/887
+#EXTINF:0 tvg-id="Bandhd.br" group-title="TV Aberta",Band HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/891
+#EXTINF:0 tvg-id="Bandhd.br" group-title="TV Aberta",Band Full HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5475
+#EXTINF:0 tvg-id="Futura.br" group-title="TV Aberta",Futura
+http://a.srvbr.me:8880/paulinho10/paulinho10/834
+#EXTINF:0 tvg-id="Futura.br" group-title="TV Aberta",Futura HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5316
+#EXTINF:0 tvg-id="GloboBrasilia.br" group-title="TV Aberta",Globo Brasília
+http://a.srvbr.me:8880/paulinho10/paulinho10/831
+#EXTINF:0 tvg-id="Globominas.br" group-title="TV Aberta",Globo Minas
+http://a.srvbr.me:8880/paulinho10/paulinho10/830
+#EXTINF:0 tvg-id="Globonordeste.br" group-title="TV Aberta",Globo Nordeste
+http://a.srvbr.me:8880/paulinho10/paulinho10/5067
+#EXTINF:0 tvg-id="Globorj.br" group-title="TV Aberta",Globo RJ
+http://a.srvbr.me:8880/paulinho10/paulinho10/829
+#EXTINF:0 tvg-id="Globorj.br" group-title="TV Aberta",Globo RJ HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/828
+#EXTINF:0 tvg-id="Globorj.br" group-title="TV Aberta",Globo RJ Full HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5471
+#EXTINF:0 tvg-id="Rpctvcuritiba.br" group-title="TV Aberta",Globo Curitiba
+http://a.srvbr.me:8880/paulinho10/paulinho10/5128
+#EXTINF:0 tvg-id="Globosp.br" group-title="TV Aberta",Globo SP
+http://a.srvbr.me:8880/paulinho10/paulinho10/827
+#EXTINF:0 tvg-id="Globosp.br" group-title="TV Aberta",Globo SP HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5095
+#EXTINF:0 tvg-id="Globosp.br" group-title="TV Aberta",Globo SP Full HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5470
+#EXTINF:0 tvg-id="Tvliberalbelem.br" group-title="TV Aberta",Globo Para (Belem) - TV Liberal
+http://a.srvbr.me:8880/paulinho10/paulinho10/5069
+#EXTINF:0 tvg-id="Rederecord.br" group-title="TV Aberta",Record
+http://a.srvbr.me:8880/paulinho10/paulinho10/761
+#EXTINF:0 tvg-id="Rederecord.br" group-title="TV Aberta",Record HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/763
+#EXTINF:0 tvg-id="Rederecord.br" group-title="TV Aberta",Record Full HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5466
+#EXTINF:0 tvg-id="Rederecord.br" group-title="TV Aberta",Record RJ
+http://a.srvbr.me:8880/paulinho10/paulinho10/7567
+#EXTINF:0 tvg-id="Redetv.br" group-title="TV Aberta",RedeTV!
+http://a.srvbr.me:8880/paulinho10/paulinho10/759
+#EXTINF:0 tvg-id="Sbt.br" group-title="TV Aberta",SBT
+http://a.srvbr.me:8880/paulinho10/paulinho10/756
+#EXTINF:0 tvg-id="Sbt.br" group-title="TV Aberta",SBT HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/755
+#EXTINF:0 tvg-id="Sbt.br" group-title="TV Aberta",SBT Full HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5465
+#EXTINF:0 tvg-id="Terraviva.br" group-title="TV Aberta",Terra Viva
+http://a.srvbr.me:8880/paulinho10/paulinho10/727
+#EXTINF:0 tvg-id="Tvjustica.br" group-title="TV Aberta",TV Justica
+http://a.srvbr.me:8880/paulinho10/paulinho10/5293
+#EXTINF:0 tvg-id="Tvbrasil.br" group-title="TV Aberta",TV Brasil
+http://a.srvbr.me:8880/paulinho10/paulinho10/717
+#EXTINF:0 tvg-id="Tvcamara.br" group-title="TV Aberta",TV Câmara
+http://a.srvbr.me:8880/paulinho10/paulinho10/602
+
+
+#EXTINF:0 tvg-id="Bandnews.br" group-title="Notícias",Band News
+http://a.srvbr.me:8880/paulinho10/paulinho10/890
+#EXTINF:0 tvg-id="Globonews.br" group-title="Notícias",Globo News
+http://a.srvbr.me:8880/paulinho10/paulinho10/826
+#EXTINF:0 tvg-id="Globonewshd.br" group-title="Notícias",Globo News HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/1498
+#EXTINF:0 tvg-id="Globonewshd.br" group-title="Notícias",Globo News Full HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5442
+#EXTINF:0 tvg-id="RecordNews.pt" group-title="Notícias",Record News
+http://a.srvbr.me:8880/paulinho10/paulinho10/762
+
+#EXTINF:0 tvg-id="Bandsports.br" group-title="Esportes",Band Sports
+http://a.srvbr.me:8880/paulinho10/paulinho10/889
+#EXTINF:0 tvg-id="Bandsports.br" group-title="Esportes",Band Sports HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/888
+#EXTINF:0 tvg-id="Combate.br" group-title="Esportes",Combate
+http://a.srvbr.me:8880/paulinho10/paulinho10/875
+#EXTINF:0 tvg-id="Combate.br" group-title="Esportes",Combate HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/874
+#EXTINF:0 tvg-id="Combate.br" group-title="Esportes",Combate Full HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5474
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Esportes",ESPN
+http://a.srvbr.me:8880/paulinho10/paulinho10/4643
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Esportes",ESPN HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/848
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Esportes",ESPN Full HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5458
+#EXTINF:0 tvg-id="ESPNHD.mx" group-title="Esportes",ESPN +  HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/851
+#EXTINF:0 tvg-id="Espnbrasil.br" group-title="Esportes",ESPN Brasil
+http://a.srvbr.me:8880/paulinho10/paulinho10/850
+#EXTINF:0 tvg-id="Espnbrasilhd.br" group-title="Esportes",ESPN Brasil HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/849
+#EXTINF:0 tvg-id="Espnbrasilhd.br" group-title="Esportes",ESPN Brasil Full HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5459
+#EXTINF:0 tvg-id="Espnextra.br" group-title="Esportes",Espn Extra
+http://a.srvbr.me:8880/paulinho10/paulinho10/5321
+#EXTINF:0 tvg-id="Espnextra.br" group-title="Esportes",Espn Extra HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5320
+#EXTINF:0 tvg-id="Espnextra.br" group-title="Esportes",ESPN Extra Full HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5457
+#EXTINF:0 tvg-id="Fishtv.br" group-title="Esportes",Fish TV
+http://a.srvbr.me:8880/paulinho10/paulinho10/846
+#EXTINF:0 tvg-id="Fishtv.br" group-title="Esportes",Fish TV HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5319
+#EXTINF:0 tvg-id="FoxSports.it" group-title="Esportes",Fox Sports
+http://a.srvbr.me:8880/paulinho10/paulinho10/837
+#EXTINF:0 tvg-id="FoxSports.it" group-title="Esportes",Fox Sports HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/838
+#EXTINF:0 tvg-id="FoxSports.it" group-title="Esportes",Fox Sports Full HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5418
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Esportes",Fox Sports 2
+http://a.srvbr.me:8880/paulinho10/paulinho10/836
+#EXTINF:0 tvg-id="FoxSports2HD.mx" group-title="Esportes",FOX Sports 2 HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/835
+#EXTINF:0 tvg-id="FoxSports2HD.mx" group-title="Esportes",Fox Sports 2 Full HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5456
+#EXTINF:0 tvg-id="Off.br" group-title="Esportes",OFF
+http://a.srvbr.me:8880/paulinho10/paulinho10/785
+#EXTINF:0 tvg-id="Off.br" group-title="Esportes",OFF HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/784
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="Esportes",Premiere Clubes
+http://a.srvbr.me:8880/paulinho10/paulinho10/767
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="Esportes",Premiere Clubes HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/780
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="Esportes",Premiere Clubes Full HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5455
+#EXTINF:0 tvg-id="Sportv.br" group-title="Esportes",SporTV
+http://a.srvbr.me:8880/paulinho10/paulinho10/748
+#EXTINF:0 tvg-id="Sportv.br" group-title="Esportes",SporTV HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/749
+#EXTINF:0 tvg-id="Sportv.br" group-title="Esportes",Sportv Full HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5438
+#EXTINF:0 tvg-id="Sportv2.br" group-title="Esportes",SporTV2
+http://a.srvbr.me:8880/paulinho10/paulinho10/747
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Esportes",Sportv 2 Full HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5439
+#EXTINF:0 tvg-id="Sportv3.br" group-title="Esportes",SporTV3
+http://a.srvbr.me:8880/paulinho10/paulinho10/745
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Esportes",Sportv 3 Full HD
+http://a.srvbr.me:8880/paulinho10/paulinho10/5440
+#EXTINF:0 tvg-id="Woohoo.br" group-title="Esportes",Woohoo
+http://a.srvbr.me:8880/paulinho10/paulinho10/704
+
+#EXTINF:0 tvg-id="CancaoNova.br" group-title="Religiosos",Canção Nova
+http://a.srvbr.me:8880/paulinho10/paulinho10/879
+#EXTINF:0 tvg-id="Redevida.br" group-title="Religiosos",Rede Vida
+http://a.srvbr.me:8880/paulinho10/paulinho10/757
+#EXTINF:0 tvg-id="Tvaparecida.br" group-title="Religiosos",TV Aparecida
+http://a.srvbr.me:8880/paulinho10/paulinho10/895
+
+#EXTINF:0 tvg-id="NHK.mx" group-title="Internacional",NHK
+http://a.srvbr.me:8880/paulinho10/paulinho10/789
+#EXTINF:0 tvg-id="TVGlobo.us" group-title="Internacional",Globo Internacional
+http://a.srvbr.me:8880/paulinho10/paulinho10/604
+#EXTINF:0 tvg-id="RTPi.pt" group-title="Internacional",RTP Internacional
+http://a.srvbr.me:8880/paulinho10/paulinho10/574
+#EXTINF:0 tvg-id="GloboPremium.pt" group-title="Internacional",(PT)Globo Premium
+http://a.srvbr.me:8880/paulinho10/paulinho10/1518
+#EXTINF:0 tvg-id="TPA.sp" group-title="Internacional",TPA
+http://a.srvbr.me:8880/paulinho10/paulinho10/979
+
+#EXTINF:0 tvg-id="Anos70.br" group-title="Rádios",Anos 70
+http://a.srvbr.me:8880/paulinho10/paulinho10/932
+#EXTINF:0 tvg-id="Anos80.br" group-title="Rádios",Anos 80
+http://a.srvbr.me:8880/paulinho10/paulinho10/931
+#EXTINF:0 tvg-id="Anos90.br" group-title="Rádios",Anos 90
+http://a.srvbr.me:8880/paulinho10/paulinho10/930
+#EXTINF:0 tvg-id="Bossanova.br" group-title="Rádios",Bossa Nova
+http://a.srvbr.me:8880/paulinho10/paulinho10/929
+#EXTINF:0 tvg-id="Eletronica.br" group-title="Rádios",Eletrônica
+http://a.srvbr.me:8880/paulinho10/paulinho10/928
+#EXTINF:0 tvg-id="Festa.br" group-title="Rádios",Festa
+http://a.srvbr.me:8880/paulinho10/paulinho10/927
+#EXTINF:0 tvg-id="Forro.br" group-title="Rádios",Forró
+http://a.srvbr.me:8880/paulinho10/paulinho10/926
+#EXTINF:0 tvg-id="Gospel.br" group-title="Rádios",Gospel
+http://a.srvbr.me:8880/paulinho10/paulinho10/925
+#EXTINF:0 tvg-id="Hiphop.br" group-title="Rádios",Hip Hop
+http://a.srvbr.me:8880/paulinho10/paulinho10/924
+#EXTINF:0 tvg-id="Jazz.us" group-title="Rádios",Jazz
+http://a.srvbr.me:8880/paulinho10/paulinho10/923
+#EXTINF:0 tvg-id="Kids.br" group-title="Rádios",Kids
+http://a.srvbr.me:8880/paulinho10/paulinho10/922
+#EXTINF:0 tvg-id="Lounge.br" group-title="Rádios",Lounge
+http://a.srvbr.me:8880/paulinho10/paulinho10/921
+#EXTINF:0 tvg-id="Mpb.br" group-title="Rádios",MPB
+http://a.srvbr.me:8880/paulinho10/paulinho10/920
+#EXTINF:0 tvg-id="Pagode.br" group-title="Rádios",Pagode
+http://a.srvbr.me:8880/paulinho10/paulinho10/919
+#EXTINF:0 tvg-id="Pophits.br" group-title="Rádios",Pop Hits
+http://a.srvbr.me:8880/paulinho10/paulinho10/918
+#EXTINF:0 tvg-id="Rockclassico.br" group-title="Rádios",Rock Clássico
+http://a.srvbr.me:8880/paulinho10/paulinho10/916
+#EXTINF:0 tvg-id="Reggae.us" group-title="Rádios",Reggae
+http://a.srvbr.me:8880/paulinho10/paulinho10/917
+#EXTINF:0 tvg-id="Romanticas.br" group-title="Rádios",Românticas
+http://a.srvbr.me:8880/paulinho10/paulinho10/915
+#EXTINF:0 tvg-id="Sambaderaiz.br" group-title="Rádios",Samba de Raiz
+http://a.srvbr.me:8880/paulinho10/paulinho10/914
+
+
